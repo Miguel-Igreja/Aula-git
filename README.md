@@ -1,1 +1,1 @@
-# Aula-git
+# git-cosmos-class
